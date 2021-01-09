@@ -3,9 +3,6 @@
 
 namespace creational\factoryMethod;
 
-require_once 'IProduct.php';
-require_once 'ICreator.php';
-require_once 'Operator.php';
 
 class Operator
 {

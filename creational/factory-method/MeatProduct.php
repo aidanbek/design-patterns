@@ -3,7 +3,6 @@
 
 namespace creational\factoryMethod;
 
-require_once 'IProduct.php';
 
 class MeatProduct implements IProduct
 {

@@ -1,5 +1,6 @@
 <?php
 
+
 namespace creational\factoryMethod;
 
 interface IProduct
